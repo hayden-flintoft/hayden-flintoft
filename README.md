@@ -10,10 +10,10 @@ When I’m not coding, you’ll find me tutoring kids at CoderDojo Nelson, where
 ### NHK World Downloader
 An automated Node.js tool for downloading and organising shows from NHK World Japan. Built with modern JavaScript and web scraping technologies, it features smart episode tracking, subtitle embedding, and organised media management. Eventually, this project will incorporate TVDB for episode metadata and an express server for background functionality like scheduling and file management.
 
-Tic-Stack-Token
+### Tic-Stack-Token
 A strategic twist on the classic Tic-Tac-Toe game, Tic-Stack-Token adds a new layer of strategy by allowing players to stack tokens on top of others with lower numbers. Built with React, TypeScript, Vite, and Material-UI, this project showcases my passion for game development and ongoing commitment to enhancing the player experience.
 
-Let 'Em Cook
+### Let 'Em Cook
 Let 'Em Cook is a recipe discovery platform I developed with a talented team. It helps users find creative recipes based on the ingredients they have on hand. With a focus on reducing food waste, we built this app using React, Tailwind CSS, Express, and The MealDB API. This project is a testament to my collaborative skills and ability to build full-stack applications under tight deadlines.
 
 ## 💼 Tech Stack
